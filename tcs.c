@@ -4,7 +4,7 @@
 #include <stdio.h>
 #include <string.h>
 //#include <conio.h>
-#define N 30
+#define N 21
 
 int apple[3],num;
 char score[3];
